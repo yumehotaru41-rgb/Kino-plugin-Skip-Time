@@ -6,8 +6,10 @@
   "entry": "plugin.js",
   "description": "Botones de salto fijo de ±85 segundos en el panel del reproductor. No salta al siguiente episodio; solo avanza o retrocede 85 s dentro del mismo video. Funciona en cualquier título que estés viendo.",
   "author": "Hotaru Yume",
+  "creator": "hotaruyume",
   "homepage": "https://github.com/hotaruyume",
-  "hosts": [],
+  "icon": "icon.png",
+  "hosts": ["yumehotaru41-rgb.github.io"],
   "capabilities": ["playerPanelTab"],
   "panel": {
     "contributes": true,
