@@ -1,0 +1,20 @@
+{
+  "id": "time-skip-85",
+  "name": "Time Skip 85s",
+  "version": "1.0.0",
+  "apiVersion": 14,
+  "entry": "plugin.js",
+  "description": "Botones de salto fijo de ±85 segundos en el panel del reproductor. No salta al siguiente episodio; solo avanza o retrocede 85 s dentro del mismo video. Funciona en cualquier título que estés viendo.",
+  "author": "Hotaru Yume",
+  "homepage": "https://github.com/hotaruyume",
+  "hosts": [],
+  "capabilities": ["playerPanelTab"],
+  "panel": {
+    "contributes": true,
+    "label": "Skip 85s",
+    "labelEn": "Skip 85s",
+    "icon": "bolt"
+  },
+  "categories": ["utilities"],
+  "color": "#39C5BB"
+}
