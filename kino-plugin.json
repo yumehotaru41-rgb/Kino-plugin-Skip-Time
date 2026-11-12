@@ -15,7 +15,7 @@
     "contributes": true,
     "label": "Skip 85s",
     "labelEn": "Skip 85s",
-    "icon": "bolt"
+    "iconFile": "icon.png"
   },
   "categories": ["utilities"],
   "color": "#39C5BB"
